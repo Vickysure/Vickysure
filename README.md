@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Professional, Base in Lagos, Nigeria</h3>
 
 <p align="center">
-<img src="./profile-picture.jpeg" width="120">
+<img src="./profile-picture.jpeg" width="200">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickysure" alt="vickysure" /></a> </p>
